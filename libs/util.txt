@@ -1,0 +1,10 @@
+catdoc
+zipindex
+zipinfo
+deroff
+zcat 
+xls2csv 
+unrtf 
+ps2ascii 
+/usr/bin/pdftotext
+/usr/bin/pdfinfo

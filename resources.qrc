@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/qss/blue.qss</file>
+        <file>resources/images/category/folder_video.png</file>
+        <file>resources/images/category/folder.png</file>
+        <file>resources/images/category/folder_app.png</file>
+        <file>resources/images/category/folder_documents.png</file>
+        <file>resources/images/category/folder_images.png</file>
+        <file>resources/images/category/folder_mail.png</file>
+        <file>resources/images/category/folder_music.png</file>
+        <file>resources/images/category/folder_txt.png</file>
+        <file>resources/templates/index.html</file>
+    </qresource>
+</RCC>

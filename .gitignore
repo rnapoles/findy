@@ -5,9 +5,9 @@
 *.a
 *.la
 *.lai
-*.so
-*.so.*
-*.dll
+#*.so
+#*.so.*
+#*.dll
 *.dylib
 
 # Qt-es
@@ -50,5 +50,5 @@ compile_commands.json
 
 # QtCreator local machine specific files for imported projects
 *creator.user*
-
+*.user
 *_qmlcache.qrc
